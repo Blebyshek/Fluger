@@ -1,0 +1,9 @@
+boards/promicro_nrf52840_nrf52840_uf2 copy
+build/
+MT6701-Zephyr-Module/
+src/other version/
+
+
+
+prj copy.conf
+scan.py
